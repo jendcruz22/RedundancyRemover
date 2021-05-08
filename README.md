@@ -15,7 +15,7 @@ Following are the steps for identifying similar images using the Average Hashing
 
 ### **How to run this project?**
 
-1. After downloading this repository and opening it in any IDE, activate the environment by typing the following in the terminal
+1. After downloading this repository and opening it in any IDE, create and activate a python virtual environment by typing the following in the terminal
 
 ```
 env\Scripts\activate
